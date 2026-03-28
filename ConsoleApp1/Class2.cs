@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         void hello()
         {
-            Console.WriteLine("hello world_promjena");
+            Console.WriteLine("napravljena promjena online na githubu");
         }
     }
 }
