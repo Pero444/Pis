@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         void printName() {
             Console.WriteLine("pero je bia ovdje");   
+            Console.WriteLine("pero je uteko");   
         }
     }
 }
