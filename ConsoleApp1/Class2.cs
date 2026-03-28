@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         void hello()
         {
-            Console.WriteLine("hello worldasdasdasd");
+            Console.WriteLine("hello world_promjena");
         }
     }
 }
